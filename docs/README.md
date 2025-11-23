@@ -56,14 +56,14 @@ This multi-layered approach ensures we deliver reliable, high-quality solutions 
 
 For detailed guidance on specific aspects of project management at OctoAcme, explore the following documents in this folder:
 
-- Project Management Overview
-- Roles and Personas
-- Project Initiation
-- Project Planning
-- Execution and Tracking
-- Release and Deployment
-- Risks and Communication
-- Retrospective and Continuous Improvement
+- [Project Management Overview](octoacme-project-management-overview.md)
+- [Roles and Personas](octoacme-roles-and-personas.md)
+- [Project Initiation](octoacme-project-initiation.md)
+- [Project Planning](octoacme-project-planning.md)
+- [Execution and Tracking](octoacme-execution-and-tracking.md)
+- [Release and Deployment](octoacme-release-and-deployment.md)
+- [Risks and Communication](octoacme-risks-and-communication.md)
+- [Retrospective and Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)
 
 ---
 
